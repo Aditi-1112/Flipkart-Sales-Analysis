@@ -1,37 +1,96 @@
-# Flipkart-Sales-Analysis
+# 📊 Flipkart Sales Analysis Dashboard
 
-## Project Overview
-Excel Data Analytics Project analyzing Flipkart sales data to identify sales trends, top-selling products, revenue, customer behavior, and business insights using dashboards, Pivot Tables, and KPIs.
+![Dashboard](Screenshot%20(13).png)
 
-## Tools Used
+## 📌 Project Overview
+
+This project presents an interactive Sales Dashboard built in Microsoft Excel to analyze Flipkart sales performance. The dashboard provides insights into sales trends, regional performance, product distribution, and category-wise sales using Pivot Tables, Pivot Charts, and Slicers.
+
+---
+
+## 🎯 Objectives
+
+- Analyze overall sales performance.
+- Track key business KPIs.
+- Compare sales across different regions.
+- Identify top-selling product categories.
+- Monitor monthly sales trends.
+- Build an interactive dashboard for business decision-making.
+
+---
+
+## 🛠️ Tools Used
+
 - Microsoft Excel
-- SQL
-- Power BI
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Conditional Formatting
+- Dashboard Design
 
-## Key Insights
-- Sales Performance Analysis
-- Category-wise Sales
-- Revenue Trends
-- Top Products
-- Customer Analysis
+---
 
-## Files
-- Dataset
-- Excel Dashboard
-- SQL Queries
-- Power BI Dashboard
+## 📈 Dashboard KPIs
 
-# Dashboard Preview
+| KPI | Value |
+|------|-------:|
+| Total Sales | 5,189,083 |
+| Total Orders | 20,100 |
+| Average Order Value | 27,165.29 |
+| Average Total Sales | 2,861,152 |
 
-![Dashboard](Screenshots/Dashboard.png)
+---
 
-## KPIs
+## 📊 Dashboard Features
 
-![KPI](Screenshots/KPI.png)
+- ✅ Interactive Category Slicer
+- ✅ Month-wise Sales Trend
+- ✅ Region-wise Sales Analysis
+- ✅ Category-wise Sales Distribution
+- ✅ Product-wise Sales Distribution
+- ✅ KPI Cards
+- ✅ Dynamic Pivot Charts
 
-## Sales Trend
+---
 
-![Sales Trend](Screenshots/Sales_Trend.png)
+## 🔍 Business Insights
 
-## Author
-Aditi Kesarwani
+- Electronics contribute approximately **69%** of total sales.
+- Fashion contributes around **31%** of total sales.
+- East region generated the highest sales.
+- Monthly sales show peak performance during April and October.
+- Headphones are the highest-selling product category.
+
+---
+
+## 📂 Repository Contents
+
+```
+📁 Flipkart-Sales-Analysis
+│── Flipkart Sales Project.xlsx
+│── Screenshot (12).png
+│── README.md
+```
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Dashboard Development
+- Business Intelligence
+- KPI Reporting
+- Data Visualization
+- Excel Analytics
+
+---
+
+## 👩‍💻 Author
+
+**Aditi Kesarwani**
+
+Aspiring Data Analyst
+
+**Skills:** Excel • SQL • Power BI • Python • Data Analytics
