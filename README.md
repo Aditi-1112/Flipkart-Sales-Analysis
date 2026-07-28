@@ -1,9 +1,7 @@
 # Flipkart-Sales-Analysis
-Excel Data Analytics Project analyzing Flipkart sales trends using dashboards, Pivot Tables, and KPIs.
-# Flipkart Sales Analysis
 
 ## Project Overview
-This project analyzes Flipkart sales data to identify sales trends, top-selling products, revenue, customer behavior, and business insights.
+Excel Data Analytics Project analyzing Flipkart sales data to identify sales trends, top-selling products, revenue, customer behavior, and business insights using dashboards, Pivot Tables, and KPIs.
 
 ## Tools Used
 - Microsoft Excel
